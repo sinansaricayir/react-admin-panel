@@ -16,7 +16,7 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="top">
-        <span className="logo">SSA</span>
+        <span className="logo">Admin Panel</span>
       </div>
       <div className="center">
         <ul>
