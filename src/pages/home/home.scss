@@ -11,4 +11,17 @@
     padding: 20px;
     gap: 20px;
   }
+
+  .listContainer {
+    -webkit-box-shadow: -7px 8px 15px -1px rgba(0, 0, 0, 0.67);
+    box-shadow: -7px 8px 15px -1px rgba(0, 0, 0, 0.67);
+    padding: 20px;
+    margin: 20px;
+
+    .listTitle {
+      color: gray;
+      font-weight: 500;
+      margin-bottom: 15px;
+    }
+  }
 }

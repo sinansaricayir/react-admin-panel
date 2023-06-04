@@ -11,11 +11,11 @@ import "./chart.scss";
 const Chart = () => {
   const data = [
     { name: "January", Total: 1200 },
-    { name: "February", Total: 2100 },
-    { name: "March", Total: 400 },
-    { name: "April", Total: 800 },
+    { name: "February", Total: 4400 },
+    { name: "March", Total: 1300 },
+    { name: "April", Total: 4000 },
     { name: "May", Total: 2200 },
-    { name: "June", Total: 3400 },
+    { name: "June", Total: 1800 },
   ];
 
   return (
